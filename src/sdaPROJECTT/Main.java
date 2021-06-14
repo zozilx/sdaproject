@@ -17,7 +17,7 @@ public class Main {
 	public static void main(String[] args)  {
         /*System.out.println("Hello World!");*/
         System.out.println("\n**************************************\n");
-        System.out.println("\tWelcome to TheDesk \n");
+        System.out.println("\tWelcome to my application \n this app are developed by 'Abdulaziz Alshehri' ");
         System.out.println("**************************************");
         try {
         	optionsSelection();
