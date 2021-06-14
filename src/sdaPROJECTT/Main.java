@@ -205,8 +205,10 @@ public class Main {
         	                        break;
         	                
         	                    
-        	                        
-        	                       //here i tried to make else method but it doesn't work.
+        	                             	
+        	                    default:
+        	                        System.out.println("*****invalid choice*****");
+        	                        break;
         	                }
         	        
         	            }
@@ -216,7 +218,10 @@ public class Main {
         	   
         	break;	
         	
-        	
+        	     	
+        	                    default:
+        	                        System.out.println("*****invalid choice*****");
+        	                        break;
         	
              
         	} 
